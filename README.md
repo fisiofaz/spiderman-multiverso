@@ -2,8 +2,13 @@
     <p>Spiderman-Multiverso</p>
 </h1>
 
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/75371386/216940189-c464f959-21e1-4952-b43e-75cf83e8292b.png">
+</h1>
 
-## ✂ Sobre
+
+
+## Sobre
 
 Multi-Universo Spider-Man é um projecto desenvolvido no curso sobre HTML5, CSS3 da [DIO](https://web.dio.me/), com a finalidade de praticar os conhecimentos adquiridos durante o curso.
 
